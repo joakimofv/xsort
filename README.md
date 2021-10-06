@@ -1,2 +1,3 @@
 # xsort
-some sort-related functions on top of stdlib sort
+
+https://pkg.go.dev/github.com/joakimofv/xsort
